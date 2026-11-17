@@ -1,0 +1,11 @@
+order_id,customer_name,city,product,category,price,quantity,order_status,order_date,total_amount
+201,AMIT,delhi,Laptop,Electronics,55000.75,1,Completed,2023-03-01,55000.75
+202,RIYA,mumbai,Phone,Electronics,32000.4,1,Completed,2023-03-05,32000.4
+203,KARAN,delhi,Chair,Furniture,4500.0,2,Cancelled,2023-03-10,9000.0
+204,AMIT,delhi,Table,Furniture,8900.6,1,Pending,2023-04-01,8900.6
+205,NEHA,chennai,Headphones,Accessories,2500.9,3,Completed,2023-04-05,7502.700000000001
+206,SURESH,bangalore,Phone,Electronics,32000.4,1,Pending,2023-04-10,32000.4
+207,RIYA,mumbai,Laptop,Electronics,55000.75,1,Completed,2023-04-15,55000.75
+208,,pune,Keyboard,Accessories,1500.5,2,Completed,2023-04-20,3001.0
+209,ANITA,mumbai,Monitor,Electronics,18500.0,1,Returned,2023-05-02,18500.0
+210,KARAN,delhi,Mouse,Accessories,800.0,5,Completed,2023-05-10,4000.0
